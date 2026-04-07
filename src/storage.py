@@ -1,0 +1,7 @@
+def save_name(names, name):
+    names.append(name)
+    return names
+
+# Para que de fallo de integhración
+# def save_name(names, name):
+#     return []
